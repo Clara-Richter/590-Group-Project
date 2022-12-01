@@ -1,0 +1,4 @@
+.DS_store
+.ipynb_checkpoints
+data/
+NYS_Civil_Boundaries.shp/
