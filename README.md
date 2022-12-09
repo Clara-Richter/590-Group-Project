@@ -7,4 +7,4 @@ Horse racing is one of the oldest sports, where spectators watch highly trained 
 
 The core data source of this project is the Big Data Derby 2022 Kaggle competition. It contains detailed information about horses and jockeys, results and monetary prizes, as well as the geographic coordinates of the horse in a race. This data was supplemented with text data of comments on each participating horse’s performance during each race. This was obtained by scraping the race history statistics pdf files from EQUIBASE. External weather data was also added to examine the impact of various weather conditions on horse performance. Using the Visual Crossing Global Weather API, historical weather data like precipitation, temperature, humidity, cloudcover, and snow for each race location/timestamp was collected.  
 
-Link to data and colab notebook: https://drive.google.com/drive/u/0/folders/0ALCmvIZc4E4KUk9PVA
+The data could not be hosted in the repository due to its magnitude. Please refer to the shared Google drive for data and colab notebooks: https://drive.google.com/drive/u/0/folders/0ALCmvIZc4E4KUk9PVA
